@@ -1,3 +1,9 @@
+# Project is deprecated
+This project hasn't been updated to work for PNC > 0.8 and is deprecated. For
+any use that requires Jenkins to interact with PNC, please use pnc-cli instead.
+
+https://github.com/project-ncl/pnc-cli
+
 # Jenkins Plugin for Project Newcastle Handover
 
 This plugin facilitates handover from community to productization. It can be used to trigger a corresponding build
